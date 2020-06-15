@@ -1,1 +1,1 @@
-This is a test for Oskar
+This is Oskar's first Git Lesson!
